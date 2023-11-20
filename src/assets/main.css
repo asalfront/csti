@@ -1,0 +1,17 @@
+@import "./base.css";
+
+#app {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: 'Manrope', sans-serif;
+  font-weight: normal;
+  overflow-x: hidden;
+}
+
+a, a:focus{
+  text-decoration: none;
+  --tw-ring-offset-shadow: none;
+  --tw-ring-shadow: none;
+  box-shadow: none;
+}
